@@ -1,0 +1,23 @@
+
+.dropdown{
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+}
+.a{
+margin-left:80%;
+margin-top:-1%;
+}
+.b{
+margin-top:10%;
+}
+body{
+
+background-image:url("file:///home/itlab/css/KP549b29a7ba124.jpeg");
+background-size:100%;
+background-repeat:no-repeat;
+}
+s{
+margin-top:-250px;
